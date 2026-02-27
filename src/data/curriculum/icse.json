@@ -1,0 +1,377 @@
+{
+    "board": "ICSE",
+    "classes": [
+        {
+            "class": "1",
+            "subjects": [
+                {
+                    "subject_name": "Mathematics",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "Pre-Number Concepts",
+                            "difficulty": "Beginner",
+                            "exam_relevance": "High",
+                            "recommended_hours": 4,
+                            "learning_outcomes": [
+                                "Classify objects",
+                                "Order objects by size"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Classification",
+                                    "subtopics": [
+                                        "Sorting by color",
+                                        "Sorting by shape"
+                                    ],
+                                    "activities": [
+                                        "Grouping buttons"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "English",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "The Alphabet",
+                            "difficulty": "Beginner",
+                            "exam_relevance": "High",
+                            "recommended_hours": 10,
+                            "learning_outcomes": [
+                                "Recognize and write letters A-Z (capital and small)"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Letters",
+                                    "subtopics": [
+                                        "Vowels and Consonants",
+                                        "Phonics"
+                                    ],
+                                    "activities": [
+                                        "Letter flashcards"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "EVS",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "Myself and My Family",
+                            "difficulty": "Beginner",
+                            "exam_relevance": "Medium",
+                            "recommended_hours": 5,
+                            "learning_outcomes": [
+                                "Understand family relationships"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Family Tree",
+                                    "subtopics": [
+                                        "Small family",
+                                        "Joint family"
+                                    ],
+                                    "activities": [
+                                        "Drawing a family tree"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "class": "6",
+            "subjects": [
+                {
+                    "subject_name": "Physics",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "Matter",
+                            "difficulty": "Intermediate",
+                            "exam_relevance": "High",
+                            "recommended_hours": 6,
+                            "learning_outcomes": [
+                                "Understand states of matter",
+                                "Molecular theory"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "States of Matter",
+                                    "subtopics": [
+                                        "Solids",
+                                        "Liquids",
+                                        "Gases",
+                                        "Characteristics of molecules"
+                                    ],
+                                    "activities": [
+                                        "Demonstrating diffusion in water"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Chemistry",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "Introduction to Chemistry",
+                            "difficulty": "Beginner",
+                            "exam_relevance": "Medium",
+                            "recommended_hours": 5,
+                            "learning_outcomes": [
+                                "Define chemistry",
+                                "Identify laboratory apparatus"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Chemistry in Daily Life",
+                                    "subtopics": [
+                                        "Medicines",
+                                        "Food preservatives"
+                                    ],
+                                    "activities": [
+                                        "Visiting a chemistry lab"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Biology",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "The Leaf",
+                            "difficulty": "Intermediate",
+                            "exam_relevance": "High",
+                            "recommended_hours": 6,
+                            "learning_outcomes": [
+                                "Identify parts of a leaf",
+                                "Understand types of venation"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Structure of a Leaf",
+                                    "subtopics": [
+                                        "Lamina",
+                                        "Petiole",
+                                        "Midrib"
+                                    ],
+                                    "activities": [
+                                        "Collecting different types of leaves"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "History & Civics",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "The Mesopotamian Civilization",
+                            "difficulty": "Intermediate",
+                            "exam_relevance": "High",
+                            "recommended_hours": 7,
+                            "learning_outcomes": [
+                                "Locate Mesopotamia on map",
+                                "Understand contribution to writing/wheel"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Main Features",
+                                    "subtopics": [
+                                        "Town planning",
+                                        "Ziggurats",
+                                        "Cuneiform script"
+                                    ],
+                                    "activities": [
+                                        "Making a clay model of a Ziggurat"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "class": "10",
+            "subjects": [
+                {
+                    "subject_name": "Mathematics",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "GST (Goods and Services Tax)",
+                            "difficulty": "Intermediate",
+                            "exam_relevance": "High",
+                            "recommended_hours": 8,
+                            "learning_outcomes": [
+                                "Calculate GST",
+                                "Understanding Input/Output tax"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Computation of Tax",
+                                    "subtopics": [
+                                        "Intra-state supply",
+                                        "Inter-state supply"
+                                    ],
+                                    "activities": [
+                                        "Analyzing grocery bills for GST"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "chapter_no": 2,
+                            "chapter_title": "Banking",
+                            "difficulty": "Intermediate",
+                            "exam_relevance": "High",
+                            "recommended_hours": 6,
+                            "learning_outcomes": [
+                                "Calculate maturity value of Recurring Deposit"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Recurring Deposit Account",
+                                    "subtopics": [
+                                        "Interest calculation formula"
+                                    ],
+                                    "activities": [
+                                        "Using bank RD calculator"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Physics",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "Force",
+                            "difficulty": "Advanced",
+                            "exam_relevance": "High",
+                            "recommended_hours": 9,
+                            "learning_outcomes": [
+                                "Understand moment of force",
+                                "Center of gravity"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Moment of Force",
+                                    "subtopics": [
+                                        "Torque",
+                                        "Equilibrium of bodies"
+                                    ],
+                                    "activities": [
+                                        "Balancing a meter rule"
+                                    ]
+                                },
+                                {
+                                    "topic_name": "Center of Gravity",
+                                    "subtopics": [
+                                        "Regular bodies",
+                                        "Irregular lamina"
+                                    ],
+                                    "activities": [
+                                        "Finding CG of cardboard cutout"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "class": "12",
+            "subjects": [
+                {
+                    "subject_name": "Computer Science",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "Boolean Algebra",
+                            "difficulty": "Advanced",
+                            "exam_relevance": "High",
+                            "recommended_hours": 10,
+                            "learning_outcomes": [
+                                "Simplify boolean expressions",
+                                "Design logic circuits"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Logic Gates",
+                                    "subtopics": [
+                                        "AND, OR, NOT",
+                                        "NAND, NOR as universal gates"
+                                    ],
+                                    "activities": [
+                                        "Designing a half adder circuit"
+                                    ]
+                                },
+                                {
+                                    "topic_name": "Karnaugh Map",
+                                    "subtopics": [
+                                        "SOP and POS minimization",
+                                        "Don't care conditions"
+                                    ],
+                                    "activities": [
+                                        "Simplifying 4-variable K-Map"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Economics",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "Demand and Law of Demand",
+                            "difficulty": "Intermediate",
+                            "exam_relevance": "High",
+                            "recommended_hours": 8,
+                            "learning_outcomes": [
+                                "Define demand",
+                                "Explain factors affecting demand"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Determinants of Demand",
+                                    "subtopics": [
+                                        "Price of good",
+                                        "Income of consumer",
+                                        "Tastes and preferences"
+                                    ],
+                                    "activities": [
+                                        "Case study on price rise vs demand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

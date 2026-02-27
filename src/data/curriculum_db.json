@@ -1,0 +1,652 @@
+{
+    "metadata": {
+        "generated_by": "Co-Teacher AI",
+        "version": "1.0.0",
+        "boards": [
+            "CBSE",
+            "ICSE",
+            "SSC"
+        ],
+        "classes": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "streams": [
+            "Science",
+            "Commerce",
+            "Humanities"
+        ],
+        "total_subjects": 45,
+        "description": "Structured curriculum database for Indian schools including chapters, topics, learning outcomes, and exam relevance."
+    },
+    "boards": [
+        {
+            "board": "CBSE",
+            "description": "Central Board of Secondary Education - NCERT Aligned",
+            "classes": [
+                {
+                    "class": "1",
+                    "level": "Primary",
+                    "subjects": [
+                        {
+                            "subject_name": "Mathematics",
+                            "chapters": [
+                                {
+                                    "chapter_no": 1,
+                                    "chapter_title": "Shapes and Space",
+                                    "difficulty": "Beginner",
+                                    "exam_relevance": "Medium",
+                                    "recommended_hours": 5,
+                                    "learning_outcomes": [
+                                        "Identify basic 2D shapes",
+                                        "Understand inside vs outside",
+                                        "Sort objects by shape"
+                                    ],
+                                    "topics": [
+                                        {
+                                            "topic_name": "Spatial Relationships",
+                                            "subtopics": [
+                                                "Inside-Outside",
+                                                "Bigger-Smaller",
+                                                "Top-Bottom"
+                                            ],
+                                            "activities": [
+                                                "Sorting blocks",
+                                                "Hide and seek with objects"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "chapter_no": 2,
+                                    "chapter_title": "Numbers from One to Nine",
+                                    "difficulty": "Beginner",
+                                    "exam_relevance": "High",
+                                    "recommended_hours": 8,
+                                    "learning_outcomes": [
+                                        "Count objects up to 9",
+                                        "Write numerals 1-9",
+                                        "Match numbers to quantities"
+                                    ],
+                                    "topics": [
+                                        {
+                                            "topic_name": "Counting Basics",
+                                            "subtopics": [
+                                                "Counting distinct objects",
+                                                "Writing numerals",
+                                                "Concept of Zero"
+                                            ],
+                                            "activities": [
+                                                "Number flashcards",
+                                                "Counting fingers"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subject_name": "English (Marigold)",
+                            "chapters": [
+                                {
+                                    "chapter_no": 1,
+                                    "chapter_title": "A Happy Child",
+                                    "difficulty": "Beginner",
+                                    "exam_relevance": "Medium",
+                                    "recommended_hours": 4,
+                                    "learning_outcomes": [
+                                        "Recite poem with rhythm",
+                                        "Identify rhyming words",
+                                        "Talk about feelings"
+                                    ],
+                                    "topics": [
+                                        {
+                                            "topic_name": "Poem Recitation",
+                                            "subtopics": [
+                                                "Reading aloud",
+                                                "New words",
+                                                "Colors extraction"
+                                            ],
+                                            "activities": [
+                                                "Drawing a happy face",
+                                                "Singing the poem"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subject_name": "EVS",
+                            "chapters": [
+                                {
+                                    "chapter_no": 1,
+                                    "chapter_title": "About Me",
+                                    "difficulty": "Beginner",
+                                    "exam_relevance": "High",
+                                    "recommended_hours": 3,
+                                    "learning_outcomes": [
+                                        "Introduce self",
+                                        "Identify body parts",
+                                        "Express likes/dislikes"
+                                    ],
+                                    "topics": [
+                                        {
+                                            "topic_name": "Self Introduction",
+                                            "subtopics": [
+                                                "My Name",
+                                                "My Age",
+                                                "My Family"
+                                            ],
+                                            "activities": [
+                                                "Paste a photo",
+                                                "Finger printing"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "class": "5",
+                    "level": "Primary",
+                    "subjects": [
+                        {
+                            "subject_name": "EVS (Looking Around)",
+                            "chapters": [
+                                {
+                                    "chapter_no": 1,
+                                    "chapter_title": "Super Senses",
+                                    "difficulty": "Intermediate",
+                                    "exam_relevance": "High",
+                                    "recommended_hours": 6,
+                                    "learning_outcomes": [
+                                        "Understand animal senses",
+                                        "Compare human and animal senses",
+                                        "Appreciate biodiversity"
+                                    ],
+                                    "topics": [
+                                        {
+                                            "topic_name": "Sense Organs in Animals",
+                                            "subtopics": [
+                                                "Ants and smell",
+                                                "Eagle vision",
+                                                "Tiger hearing"
+                                            ],
+                                            "activities": [
+                                                "Observing ants trail",
+                                                "Sound identification game"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subject_name": "Mathematics",
+                            "chapters": [
+                                {
+                                    "chapter_no": 1,
+                                    "chapter_title": "The Fish Tale",
+                                    "difficulty": "Intermediate",
+                                    "exam_relevance": "Medium",
+                                    "recommended_hours": 7,
+                                    "learning_outcomes": [
+                                        "Large numbers concept",
+                                        "Basic operations in real life contexts",
+                                        "Speed and distance basics"
+                                    ],
+                                    "topics": [
+                                        {
+                                            "topic_name": "Large Numbers",
+                                            "subtopics": [
+                                                "Reading lakhs and crores",
+                                                "Estimation",
+                                                "Speed calculation (boats)"
+                                            ],
+                                            "activities": [
+                                                "Roleplay fish market",
+                                                "Calculate boat speeds"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "class": "8",
+                    "level": "Middle School",
+                    "subjects": [
+                        {
+                            "subject_name": "Science",
+                            "chapters": [
+                                {
+                                    "chapter_no": 1,
+                                    "chapter_title": "Crop Production and Management",
+                                    "difficulty": "Intermediate",
+                                    "exam_relevance": "High",
+                                    "recommended_hours": 8,
+                                    "learning_outcomes": [
+                                        "Understand agricultural practices",
+                                        "Differentiate kharif and rabi crops",
+                                        "Explain irrigation methods"
+                                    ],
+                                    "topics": [
+                                        {
+                                            "topic_name": "Agricultural Practices",
+                                            "subtopics": [
+                                                "Preparation of soil",
+                                                "Sowing",
+                                                "Adding manure and fertilizers",
+                                                "Irrigation"
+                                            ],
+                                            "activities": [
+                                                "Visit a nearby farm",
+                                                "Grow a seed in pot"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "chapter_no": 11,
+                                    "chapter_title": "Force and Pressure",
+                                    "difficulty": "Hard",
+                                    "exam_relevance": "High",
+                                    "recommended_hours": 10,
+                                    "learning_outcomes": [
+                                        "Define force",
+                                        "Understand contact vs non-contact forces",
+                                        "Calculate pressure"
+                                    ],
+                                    "topics": [
+                                        {
+                                            "topic_name": "Force",
+                                            "subtopics": [
+                                                "Effects of force",
+                                                "Contact forces (Friction)",
+                                                "Non-contact forces (Magnetic, Gravity)"
+                                            ],
+                                            "activities": [
+                                                "Tug of war analysis",
+                                                "Balloon static electricity"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "class": "10",
+                    "level": "Secondary",
+                    "subjects": [
+                        {
+                            "subject_name": "Mathematics",
+                            "chapters": [
+                                {
+                                    "chapter_no": 1,
+                                    "chapter_title": "Real Numbers",
+                                    "difficulty": "Intermediate",
+                                    "exam_relevance": "High",
+                                    "recommended_hours": 8,
+                                    "learning_outcomes": [
+                                        "Apply Euclid's Division Lemma",
+                                        "Prove irrationality of numbers",
+                                        "Fundamental Theorem of Arithmetic"
+                                    ],
+                                    "topics": [
+                                        {
+                                            "topic_name": "Euclid’s Division Lemma",
+                                            "subtopics": [
+                                                "Statement and proof",
+                                                "Finding HCF"
+                                            ],
+                                            "activities": [
+                                                "Finding HCF of large numbers"
+                                            ]
+                                        },
+                                        {
+                                            "topic_name": "Irrational Numbers",
+                                            "subtopics": [
+                                                "Proof of root 2 is irrational",
+                                                "Decimal expansions"
+                                            ],
+                                            "activities": [
+                                                "Proof by contradiction discussion"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "chapter_no": 8,
+                                    "chapter_title": "Introduction to Trigonometry",
+                                    "difficulty": "Advanced",
+                                    "exam_relevance": "Very High",
+                                    "recommended_hours": 12,
+                                    "learning_outcomes": [
+                                        "Define trigonometric ratios",
+                                        "Solve identities",
+                                        "Apply ratios to right triangles"
+                                    ],
+                                    "topics": [
+                                        {
+                                            "topic_name": "Trigonometric Ratios",
+                                            "subtopics": [
+                                                "Sine, Cosine, Tangent",
+                                                "Values at specific angles (30, 45, 60)",
+                                                "Complementary angles"
+                                            ],
+                                            "activities": [
+                                                "Measure height of school building using shadow"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subject_name": "Science",
+                            "chapters": [
+                                {
+                                    "chapter_no": 1,
+                                    "chapter_title": "Chemical Reactions and Equations",
+                                    "difficulty": "Intermediate",
+                                    "exam_relevance": "High",
+                                    "recommended_hours": 8,
+                                    "learning_outcomes": [
+                                        "Balance chemical equations",
+                                        "Identify types of reactions",
+                                        "Understand corrosion and rancidity"
+                                    ],
+                                    "topics": [
+                                        {
+                                            "topic_name": "Chemical Equations",
+                                            "subtopics": [
+                                                "Writing equations",
+                                                "Balancing equations"
+                                            ],
+                                            "activities": [
+                                                "Magnesium ribbon burning experiment"
+                                            ]
+                                        },
+                                        {
+                                            "topic_name": "Types of Reactions",
+                                            "subtopics": [
+                                                "Combination",
+                                                "Decomposition",
+                                                "Displacement",
+                                                "Double Displacement"
+                                            ],
+                                            "activities": [
+                                                "Precipitation reaction demo"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "chapter_no": 6,
+                                    "chapter_title": "Life Processes",
+                                    "difficulty": "Hard",
+                                    "exam_relevance": "Very High",
+                                    "recommended_hours": 12,
+                                    "learning_outcomes": [
+                                        "Explain nutrition in plants/animals",
+                                        "Understand respiration mechanism",
+                                        "Describe transportation in humans"
+                                    ],
+                                    "topics": [
+                                        {
+                                            "topic_name": "Nutrition",
+                                            "subtopics": [
+                                                "Autotrophic nutrition (Photosynthesis)",
+                                                "Heterotrophic nutrition",
+                                                "Human digestive system"
+                                            ],
+                                            "activities": [
+                                                "Starch test in leaves"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "class": "12",
+                    "level": "Senior Secondary",
+                    "streams": [
+                        "Science"
+                    ],
+                    "subjects": [
+                        {
+                            "subject_name": "Physics",
+                            "chapters": [
+                                {
+                                    "chapter_no": 1,
+                                    "chapter_title": "Electric Charges and Fields",
+                                    "difficulty": "Advanced",
+                                    "exam_relevance": "Very High",
+                                    "recommended_hours": 15,
+                                    "learning_outcomes": [
+                                        "Understand Coulomb's Law",
+                                        "Calculate Electric Field",
+                                        "Apply Gauss's Law"
+                                    ],
+                                    "topics": [
+                                        {
+                                            "topic_name": "Electrostatics",
+                                            "subtopics": [
+                                                "Electric Charge",
+                                                "Coulomb's Law",
+                                                "Electric Field Lines",
+                                                "Electric Dipole"
+                                            ],
+                                            "activities": [
+                                                "Electroscope demonstration"
+                                            ]
+                                        },
+                                        {
+                                            "topic_name": "Gauss's Law",
+                                            "subtopics": [
+                                                "Flux",
+                                                "Application of Gauss Law (Line charge, Sheet)"
+                                            ],
+                                            "activities": [
+                                                "Derivation practice"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subject_name": "Chemistry",
+                            "chapters": [
+                                {
+                                    "chapter_no": 2,
+                                    "chapter_title": "Solutions",
+                                    "difficulty": "Advanced",
+                                    "exam_relevance": "High",
+                                    "recommended_hours": 12,
+                                    "learning_outcomes": [
+                                        "Calculate concentration methods",
+                                        "Understand Colligative properties",
+                                        "Henry's Law"
+                                    ],
+                                    "topics": [
+                                        {
+                                            "topic_name": "Types of Solutions",
+                                            "subtopics": [
+                                                "Molarity",
+                                                "Molality",
+                                                "Mole Fraction"
+                                            ],
+                                            "activities": [
+                                                "Preparation of standard solution"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "board": "ICSE",
+            "description": "Council for the Indian School Certificate Examinations",
+            "classes": [
+                {
+                    "class": "10",
+                    "level": "Secondary",
+                    "subjects": [
+                        {
+                            "subject_name": "Computer Applications",
+                            "chapters": [
+                                {
+                                    "chapter_no": 1,
+                                    "chapter_title": "Object Oriented Programming",
+                                    "difficulty": "Intermediate",
+                                    "exam_relevance": "High",
+                                    "recommended_hours": 6,
+                                    "learning_outcomes": [
+                                        "Understand Class and Object",
+                                        "Principles of OOP"
+                                    ],
+                                    "topics": [
+                                        {
+                                            "topic_name": "Principles of OOP",
+                                            "subtopics": [
+                                                "Encapsulation",
+                                                "Abstraction",
+                                                "Polymorphism",
+                                                "Inheritance"
+                                            ],
+                                            "activities": [
+                                                "Real world object mapping"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "chapter_no": 4,
+                                    "chapter_title": "Arrays",
+                                    "difficulty": "Advanced",
+                                    "exam_relevance": "High",
+                                    "recommended_hours": 10,
+                                    "learning_outcomes": [
+                                        "Single dimensional arrays",
+                                        "Searching algorithms",
+                                        "Sorting algorithms"
+                                    ],
+                                    "topics": [
+                                        {
+                                            "topic_name": "Array Operations",
+                                            "subtopics": [
+                                                "Declaration",
+                                                "Initialization",
+                                                "Linear Search",
+                                                "Binary Search",
+                                                "Bubble Sort"
+                                            ],
+                                            "activities": [
+                                                "Sorting student marks program"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "board": "SSC",
+            "description": "State Board (General Pattern)",
+            "classes": [
+                {
+                    "class": "10",
+                    "level": "Secondary",
+                    "subjects": [
+                        {
+                            "subject_name": "Science and Technology Part-1",
+                            "chapters": [
+                                {
+                                    "chapter_no": 1,
+                                    "chapter_title": "Gravitation",
+                                    "difficulty": "Intermediate",
+                                    "exam_relevance": "High",
+                                    "recommended_hours": 8,
+                                    "learning_outcomes": [
+                                        "Kepler's Laws",
+                                        "Newton's Universal Law of Gravitation"
+                                    ],
+                                    "topics": [
+                                        {
+                                            "topic_name": "Gravitation Basics",
+                                            "subtopics": [
+                                                "Circular motion",
+                                                "Centripetal force",
+                                                "Kepler's laws"
+                                            ],
+                                            "activities": [
+                                                "Planetary motion simulation"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subject_name": "Science and Technology Part-2",
+                            "chapters": [
+                                {
+                                    "chapter_no": 1,
+                                    "chapter_title": "Heredity and Evolution",
+                                    "difficulty": "Advanced",
+                                    "exam_relevance": "High",
+                                    "recommended_hours": 8,
+                                    "learning_outcomes": [
+                                        "Darwin's theory",
+                                        "Lamarckism",
+                                        "Evidence of evolution"
+                                    ],
+                                    "topics": [
+                                        {
+                                            "topic_name": "Evolution",
+                                            "subtopics": [
+                                                "Transcription, Translation, Translocation",
+                                                "Evidences of Evolution"
+                                            ],
+                                            "activities": [
+                                                "Fossil study"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "boards": [
+        "CBSE",
+        "ICSE",
+        "SSC"
+    ],
+    "classes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+    ],
+    "subjects": {
+        "CBSE": [
+            "Mathematics",
+            "English",
+            "Hindi",
+            "EVS",
+            "Science",
+            "Social Science",
+            "Physics",
+            "Chemistry",
+            "Biology",
+            "Computer Science",
+            "Accountancy",
+            "Business Studies",
+            "Economics",
+            "History",
+            "Political Science",
+            "Geography",
+            "Psychology",
+            "Physical Education"
+        ],
+        "ICSE": [
+            "Mathematics",
+            "English",
+            "Hindi",
+            "EVS",
+            "Physics",
+            "Chemistry",
+            "Biology",
+            "History & Civics",
+            "Geography",
+            "Computer Applications",
+            "Economics",
+            "Commercial Studies",
+            "Environmental Science"
+        ],
+        "SSC": [
+            "Mathematics",
+            "Balbharati (English)",
+            "Marathi",
+            "Hindi",
+            "Environmental Studies Part 1",
+            "Environmental Studies Part 2",
+            "General Science",
+            "Science and Technology Part 1",
+            "Science and Technology Part 2",
+            "Social Sciences (History & Civics)",
+            "Social Sciences (Geography)",
+            "Algebra (Maths I)",
+            "Geometry (Maths II)",
+            "Physics",
+            "Chemistry",
+            "Biology",
+            "Book Keeping & Accountancy",
+            "Organization of Commerce",
+            "Secretarial Practice"
+        ]
+    },
+    "structure_summary": {
+        "primary": "Classes 1-5",
+        "middle": "Classes 6-8",
+        "secondary": "Classes 9-10",
+        "senior_secondary": "Classes 11-12 (Streams: Science, Commerce, Humanities)"
+    }
+}

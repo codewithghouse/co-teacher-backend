@@ -1,0 +1,498 @@
+{
+    "board": "CBSE",
+    "classes": [
+        {
+            "class": "1",
+            "subjects": [
+                {
+                    "subject_name": "Mathematics",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "Shapes and Space",
+                            "difficulty": "Beginner",
+                            "exam_relevance": "High",
+                            "recommended_hours": 5,
+                            "learning_outcomes": [
+                                "Identify simple shapes like circle, square, triangle",
+                                "Understand inside/outside, top/bottom concepts"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Spatial Understanding",
+                                    "subtopics": [
+                                        "Inside-Outside",
+                                        "Bigger-Smaller",
+                                        "Top-Bottom",
+                                        "Near-Far"
+                                    ],
+                                    "activities": [
+                                        "Identifying shapes in the classroom",
+                                        "Sorting objects by shape"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "chapter_no": 2,
+                            "chapter_title": "Numbers from One to Nine",
+                            "difficulty": "Beginner",
+                            "exam_relevance": "High",
+                            "recommended_hours": 8,
+                            "learning_outcomes": [
+                                "Count objects up to 9",
+                                "Read and write numbers 1-9"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Counting",
+                                    "subtopics": [
+                                        "Matching objects with numbers",
+                                        "Writing numerals"
+                                    ],
+                                    "activities": [
+                                        "Counting fingers",
+                                        "Number rhymes"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "English",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "A Happy Child",
+                            "difficulty": "Beginner",
+                            "exam_relevance": "Medium",
+                            "recommended_hours": 4,
+                            "learning_outcomes": [
+                                "Recite the poem with rhythm",
+                                "Identify rhyming words"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Poem Recitation",
+                                    "subtopics": [
+                                        "Reading aloud",
+                                        "New words: Cry, Day, Red, Sun"
+                                    ],
+                                    "activities": [
+                                        "Draw your house",
+                                        "Share feelings (Happy/Sad)"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "EVS",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "About Me",
+                            "difficulty": "Beginner",
+                            "exam_relevance": "Medium",
+                            "recommended_hours": 3,
+                            "learning_outcomes": [
+                                "Introduce oneself",
+                                "Identify body parts"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Self Introduction",
+                                    "subtopics": [
+                                        "My Name",
+                                        "My Age",
+                                        "My Favorites"
+                                    ],
+                                    "activities": [
+                                        "Paste a picture of yourself",
+                                        "Handprint activity"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "class": "5",
+            "subjects": [
+                {
+                    "subject_name": "Mathematics",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "The Fish Tale",
+                            "difficulty": "Intermediate",
+                            "exam_relevance": "Medium",
+                            "recommended_hours": 6,
+                            "learning_outcomes": [
+                                "Understand large numbers",
+                                "Basic operations related to money and weight"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Large Numbers",
+                                    "subtopics": [
+                                        "Reading lakhs and crores",
+                                        "Word problems on speed and distance"
+                                    ],
+                                    "activities": [
+                                        "Calculating fish catch value",
+                                        "Drawing fish using shapes"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "EVS",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "Super Senses",
+                            "difficulty": "Intermediate",
+                            "exam_relevance": "High",
+                            "recommended_hours": 5,
+                            "learning_outcomes": [
+                                "Understand how animals sense their environment",
+                                "Relate animal senses to human senses"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Animal Senses",
+                                    "subtopics": [
+                                        "Smell (Ants, Dogs)",
+                                        "Sight (Eagles, Birds)",
+                                        "Sound (Tiger, Langur)"
+                                    ],
+                                    "activities": [
+                                        "Observing ants",
+                                        "Sound identification game"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "class": "10",
+            "subjects": [
+                {
+                    "subject_name": "Mathematics",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "Real Numbers",
+                            "difficulty": "Advanced",
+                            "exam_relevance": "High",
+                            "recommended_hours": 8,
+                            "learning_outcomes": [
+                                "Understand Euclid's Division Lemma",
+                                "Prove irrationality of numbers"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Euclid's Division Lemma",
+                                    "subtopics": [
+                                        "HCF of two numbers",
+                                        "Fundamental Theorem of Arithmetic"
+                                    ],
+                                    "activities": [
+                                        "Finding HCF using division algorithm"
+                                    ]
+                                },
+                                {
+                                    "topic_name": "Irrational Numbers",
+                                    "subtopics": [
+                                        "Proof of sqrt(2), sqrt(3) is irrational",
+                                        "Decimal expansions of rational numbers"
+                                    ],
+                                    "activities": [
+                                        "Proof by contradiction discussion"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "chapter_no": 2,
+                            "chapter_title": "Polynomials",
+                            "difficulty": "Intermediate",
+                            "exam_relevance": "High",
+                            "recommended_hours": 7,
+                            "learning_outcomes": [
+                                "Find zeros of polynomials",
+                                "Relationship between zeros and coefficients"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Zeros of a Polynomial",
+                                    "subtopics": [
+                                        "Geometrical meaning of zeros",
+                                        "Quadratic polynomials"
+                                    ],
+                                    "activities": [
+                                        "Graphing quadratic equations"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Science",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "Chemical Reactions and Equations",
+                            "difficulty": "Advanced",
+                            "exam_relevance": "High",
+                            "recommended_hours": 10,
+                            "learning_outcomes": [
+                                "Identify chemical changes",
+                                "Balance chemical equations"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Chemical Equations",
+                                    "subtopics": [
+                                        "Writing equations",
+                                        "Balancing equations"
+                                    ],
+                                    "activities": [
+                                        "Burning magnesium ribbon",
+                                        "Mixing lead nitrate and potassium iodide"
+                                    ]
+                                },
+                                {
+                                    "topic_name": "Types of Reactions",
+                                    "subtopics": [
+                                        "Combination",
+                                        "Decomposition",
+                                        "Displacement",
+                                        "Double Displacement",
+                                        "Oxidation and Reduction"
+                                    ],
+                                    "activities": [
+                                        "Heating ferrous sulphate crystals"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "chapter_no": 6,
+                            "chapter_title": "Life Processes",
+                            "difficulty": "Intermediate",
+                            "exam_relevance": "High",
+                            "recommended_hours": 12,
+                            "learning_outcomes": [
+                                "Understand basic life processes like nutrition, respiration"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Nutrition",
+                                    "subtopics": [
+                                        "Autotrophic nutrition",
+                                        "Heterotrophic nutrition",
+                                        "Nutrition in Human Beings"
+                                    ],
+                                    "activities": [
+                                        "Test for starch in leaves (Photosynthesis)"
+                                    ]
+                                },
+                                {
+                                    "topic_name": "Respiration",
+                                    "subtopics": [
+                                        "Aerobic vs Anaerobic",
+                                        "Human Respiratory System"
+                                    ],
+                                    "activities": [
+                                        "Measuring breath rate"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Social Science",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "The Rise of Nationalism in Europe",
+                            "difficulty": "Advanced",
+                            "exam_relevance": "High",
+                            "recommended_hours": 10,
+                            "learning_outcomes": [
+                                "Understand the concept of nation-state",
+                                "Analyze the role of French Revolution"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "The French Revolution and the Idea of the Nation",
+                                    "subtopics": [
+                                        "Napoleonic Code",
+                                        "Liberal Nationalism"
+                                    ],
+                                    "activities": [
+                                        "Map work: Europe after Congress of Vienna"
+                                    ]
+                                },
+                                {
+                                    "topic_name": "The Making of Germany and Italy",
+                                    "subtopics": [
+                                        "Unification of Germany",
+                                        "Unification of Italy"
+                                    ],
+                                    "activities": [
+                                        "Timeline of unification events"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "class": "12",
+            "subjects": [
+                {
+                    "subject_name": "Physics",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "Electric Charges and Fields",
+                            "difficulty": "Advanced",
+                            "exam_relevance": "High",
+                            "recommended_hours": 12,
+                            "learning_outcomes": [
+                                "Understand Coulomb's Law",
+                                "Calculate Electric Field and Flux"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Electric Charge",
+                                    "subtopics": [
+                                        "Conductors and Insulators",
+                                        "Charging by Induction"
+                                    ],
+                                    "activities": [
+                                        "Gold leaf electroscope demonstration"
+                                    ]
+                                },
+                                {
+                                    "topic_name": "Coulomb's Law",
+                                    "subtopics": [
+                                        "Force between two point charges",
+                                        "Superposition principle"
+                                    ],
+                                    "activities": [
+                                        "Problem solving on force calculation"
+                                    ]
+                                },
+                                {
+                                    "topic_name": "Gauss's Law",
+                                    "subtopics": [
+                                        "Flux",
+                                        "Application of Gauss's Law"
+                                    ],
+                                    "activities": [
+                                        "Deriving field due to infinite line charge"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Chemistry",
+                    "chapters": [
+                        {
+                            "chapter_no": 2,
+                            "chapter_title": "Solutions",
+                            "difficulty": "Advanced",
+                            "exam_relevance": "High",
+                            "recommended_hours": 10,
+                            "learning_outcomes": [
+                                "Calculate concentration of solutions",
+                                "Understand colligative properties"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Types of Solutions",
+                                    "subtopics": [
+                                        "Solubility",
+                                        "Henry's Law"
+                                    ],
+                                    "activities": [
+                                        "Preparing standard solutions"
+                                    ]
+                                },
+                                {
+                                    "topic_name": "Colligative Properties",
+                                    "subtopics": [
+                                        "Raoult's Law",
+                                        "Elevation of Boiling Point",
+                                        "Depression of Freezing Point",
+                                        "Osmotic Pressure"
+                                    ],
+                                    "activities": [
+                                        "Determination of molar mass using colligative properties"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Biology",
+                    "chapters": [
+                        {
+                            "chapter_no": 2,
+                            "chapter_title": "Sexual Reproduction in Flowering Plants",
+                            "difficulty": "Intermediate",
+                            "exam_relevance": "High",
+                            "recommended_hours": 8,
+                            "learning_outcomes": [
+                                "Describe structure of flower",
+                                "Understand pollination and fertilization"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Flower Structure",
+                                    "subtopics": [
+                                        "Stamen, Microsporangium",
+                                        "Pistil, Megasporangium"
+                                    ],
+                                    "activities": [
+                                        "Dissection of a flower (Hibiscus)"
+                                    ]
+                                },
+                                {
+                                    "topic_name": "Pollination",
+                                    "subtopics": [
+                                        "Types of pollination",
+                                        "Agents of pollination"
+                                    ],
+                                    "activities": [
+                                        "Observing pollen germination under microscope"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

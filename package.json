@@ -1,0 +1,47 @@
+{
+    "name": "co-teacher-backend",
+    "version": "1.0.0",
+    "description": "Backend for AI Co-teacher",
+    "main": "dist/server.js",
+    "scripts": {
+        "start": "node dist/server.js",
+        "dev": "ts-node-dev --respawn --transpile-only src/server.ts",
+        "build": "tsc",
+        "seed": "ts-node src/prisma/seed.ts"
+    },
+    "dependencies": {
+        "@google/generative-ai": "^0.24.1",
+        "@prisma/client": "^6.2.1",
+        "axios": "^1.13.5",
+        "bcryptjs": "^3.0.3",
+        "cloudinary": "^2.9.0",
+        "cors": "^2.8.6",
+        "dotenv": "^17.2.3",
+        "express": "^5.2.1",
+        "firebase-admin": "^13.6.0",
+        "groq-sdk": "^0.37.0",
+        "jsonwebtoken": "^9.0.3",
+        "multer": "^2.0.2",
+        "nodemailer": "^8.0.1",
+        "pdf-parse": "^1.1.1",
+        "pdfkit": "^0.17.2",
+        "tesseract.js": "^5.0.0",
+        "xlsx": "^0.18.5",
+        "zod": "^3.25.76"
+    },
+    "devDependencies": {
+        "@types/bcryptjs": "^2.4.6",
+        "@types/cors": "^2.8.19",
+        "@types/express": "^5.0.6",
+        "@types/jsonwebtoken": "^9.0.10",
+        "@types/multer": "^2.0.0",
+        "@types/node": "^22.19.7",
+        "@types/nodemailer": "^7.0.11",
+        "@types/pdf-parse": "^1.1.5",
+        "@types/pdfkit": "^0.17.4",
+        "nodemon": "^1.0.2",
+        "prisma": "^6.2.1",
+        "ts-node-dev": "^2.0.0",
+        "typescript": "^5.8.3"
+    }
+}

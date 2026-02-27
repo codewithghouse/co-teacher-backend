@@ -1,0 +1,319 @@
+{
+    "board": "SSC",
+    "classes": [
+        {
+            "class": "1",
+            "subjects": [
+                {
+                    "subject_name": "Mathematics",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "Small - Big",
+                            "difficulty": "Beginner",
+                            "exam_relevance": "Medium",
+                            "recommended_hours": 3,
+                            "learning_outcomes": [
+                                "Understand size comparison"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Comparison",
+                                    "subtopics": [
+                                        "Small and Big objects"
+                                    ],
+                                    "activities": [
+                                        "Circle the smaller object"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "chapter_no": 2,
+                            "chapter_title": "Behind - In front of",
+                            "difficulty": "Beginner",
+                            "exam_relevance": "Medium",
+                            "recommended_hours": 3,
+                            "learning_outcomes": [
+                                "Understand spatial relationships"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Position",
+                                    "subtopics": [
+                                        "Identify objects behind and in front"
+                                    ],
+                                    "activities": [
+                                        "Hide and seek with toys"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Balbharati (English)",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "A Happy Song",
+                            "difficulty": "Beginner",
+                            "exam_relevance": "Medium",
+                            "recommended_hours": 4,
+                            "learning_outcomes": [
+                                "Sing with action"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Action Song",
+                                    "subtopics": [
+                                        "Clap your hands",
+                                        "Walk around"
+                                    ],
+                                    "activities": [
+                                        "Group singing"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "class": "5",
+            "subjects": [
+                {
+                    "subject_name": "Environmental Studies Part 1",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "Our Earth and Our Solar System",
+                            "difficulty": "Intermediate",
+                            "exam_relevance": "High",
+                            "recommended_hours": 6,
+                            "learning_outcomes": [
+                                "Identify planets",
+                                "Understand rotation and revolution"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Solar System",
+                                    "subtopics": [
+                                        "Sun",
+                                        "Planets",
+                                        "Satellites",
+                                        "Dwarf planets"
+                                    ],
+                                    "activities": [
+                                        "Making a model of solar system"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Environmental Studies Part 2",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "What is History?",
+                            "difficulty": "Beginner",
+                            "exam_relevance": "High",
+                            "recommended_hours": 5,
+                            "learning_outcomes": [
+                                "Define history",
+                                "Understand time divisions"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Time",
+                                    "subtopics": [
+                                        "Past, Present, Future",
+                                        "Scientific method of history"
+                                    ],
+                                    "activities": [
+                                        "Making a personal timeline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "class": "10",
+            "subjects": [
+                {
+                    "subject_name": "Science and Technology Part 1",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "Gravitation",
+                            "difficulty": "Advanced",
+                            "exam_relevance": "High",
+                            "recommended_hours": 10,
+                            "learning_outcomes": [
+                                "Understand Kepler's Laws",
+                                "Newton's Law of Gravitation"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Gravitation",
+                                    "subtopics": [
+                                        "Circular motion",
+                                        "Kepler's laws",
+                                        "Escape velocity"
+                                    ],
+                                    "activities": [
+                                        "Calculating weight on moon vs earth"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Science and Technology Part 2",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "Heredity and Evolution",
+                            "difficulty": "Advanced",
+                            "exam_relevance": "High",
+                            "recommended_hours": 8,
+                            "learning_outcomes": [
+                                "Understand transcription",
+                                "Evidences of evolution"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Heredity",
+                                    "subtopics": [
+                                        "Transcription, Translation, Translocation"
+                                    ],
+                                    "activities": [
+                                        "Chart of human evolution"
+                                    ]
+                                },
+                                {
+                                    "topic_name": "Evolution",
+                                    "subtopics": [
+                                        "Darwin's theory",
+                                        "Lamarckism"
+                                    ],
+                                    "activities": [
+                                        "Debate on evolution theories"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Geometry (Maths II)",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "Similarity",
+                            "difficulty": "Advanced",
+                            "exam_relevance": "High",
+                            "recommended_hours": 9,
+                            "learning_outcomes": [
+                                "Ratio of areas of two triangles",
+                                "BPT Theorem"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Similar Triangles",
+                                    "subtopics": [
+                                        "Tests of similarity",
+                                        "Theorem of areas of similar triangles"
+                                    ],
+                                    "activities": [
+                                        "Measuring height of a tree using shadows"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "class": "12",
+            "subjects": [
+                {
+                    "subject_name": "Physics",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "Rotational Dynamics",
+                            "difficulty": "Advanced",
+                            "exam_relevance": "High",
+                            "recommended_hours": 10,
+                            "learning_outcomes": [
+                                "Understand Moment of Inertia",
+                                "Circular Motion dynamics"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Circular Motion",
+                                    "subtopics": [
+                                        "Centripetal force",
+                                        "Banking of roads"
+                                    ],
+                                    "activities": [
+                                        "Conical pendulum experiment"
+                                    ]
+                                },
+                                {
+                                    "topic_name": "Rotational Motion",
+                                    "subtopics": [
+                                        "Moment of Inertia",
+                                        "Radius of Gyration",
+                                        "Conservation of Angular Momentum"
+                                    ],
+                                    "activities": [
+                                        "Observe spinning top"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Biology",
+                    "chapters": [
+                        {
+                            "chapter_no": 1,
+                            "chapter_title": "Reproduction in Lower and Higher Plants",
+                            "difficulty": "Intermediate",
+                            "exam_relevance": "High",
+                            "recommended_hours": 8,
+                            "learning_outcomes": [
+                                "Asexual reproduction",
+                                "Sexual reproduction",
+                                "Double fertilization"
+                            ],
+                            "topics": [
+                                {
+                                    "topic_name": "Reproduction Methods",
+                                    "subtopics": [
+                                        "Vegetative propagation",
+                                        "Structure of Anther and Ovule"
+                                    ],
+                                    "activities": [
+                                        "Study of pollen grains"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
